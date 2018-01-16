@@ -1,3 +1,5 @@
 This is a test for github!
 I will do some change to this test and let's see what will happen.
 This is a change made in github, not in local repo.
+This is a test for both github and local side making some changes to the same text.
+This is a message from github.
